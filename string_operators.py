@@ -1,11 +1,11 @@
-# nombre = 'Jaume'
-# altura = 1.73
-# print('Nombre: %s, altura: %.2f' % (nombre, altura))
+nombre = 'Jaume'
+altura = 1.73
+print('Nombre: %s, altura: %.2f' % (nombre, altura))
 
-# data = ('Jaume', 'Ordinas', 100.77)
-# format_string = 'Hello %s %s. Your current balance is $%s.' 
-# print(format_string % data)
-# ## print(format_string, data[0], data[1] + '. Your current height is %.2fm' % data[2])
+data = ('Jaume', 'Ordinas', 100.77)
+format_string = 'Hello %s %s. Your current balance is $%s.' 
+print(format_string % data)
+## print(format_string, data[0], data[1] + '. Your current height is %.2fm' % data[2])
 
 text = "abcdefghi"
 # text[start:stop:step]
